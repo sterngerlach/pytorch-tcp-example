@@ -1,0 +1,14 @@
+Connecting to a server ...
+Connected to the server ...
+Model received from the server ...
+Model size: 260144
+Parameter conv0.weight: shape: [6, 1, 5, 5]
+Parameter conv0.bias: shape: [6]
+Parameter conv1.weight: shape: [16, 6, 5, 5]
+Parameter conv1.bias: shape: [16]
+Parameter linear0.weight: shape: [120, 400]
+Parameter linear0.bias: shape: [120]
+Parameter linear1.weight: shape: [84, 120]
+Parameter linear1.bias: shape: [84]
+Parameter linear2.weight: shape: [10, 84]
+Parameter linear2.bias: shape: [10]

@@ -1,0 +1,15 @@
+Model size: 260144
+Parameter conv0.weight: shape: torch.Size([6, 1, 5, 5])
+Parameter conv0.bias: shape: torch.Size([6])
+Parameter conv1.weight: shape: torch.Size([16, 6, 5, 5])
+Parameter conv1.bias: shape: torch.Size([16])
+Parameter linear0.weight: shape: torch.Size([120, 400])
+Parameter linear0.bias: shape: torch.Size([120])
+Parameter linear1.weight: shape: torch.Size([84, 120])
+Parameter linear1.bias: shape: torch.Size([84])
+Parameter linear2.weight: shape: torch.Size([10, 84])
+Parameter linear2.bias: shape: torch.Size([10])
+Server started ...
+Client connected: ('127.0.0.1', 56316)
+Model sent to the client: ('127.0.0.1', 56316)
+Model size: 260144
