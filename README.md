@@ -90,7 +90,7 @@ Model sent to the client: ('127.0.0.1', 56316)
 Model size: 260144
 ```
 
-## C++クライアントの出力例 ([client.cpp](client.out))
+## C++クライアントの出力例 ([client.out](client.out))
 
 - モデルのバイト数、パラメータの名前と形状が、上記と一致しており、モデルを正しく転送できていることが確認できました。
 ```
